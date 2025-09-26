@@ -1,0 +1,32 @@
+# My-third-project-
+My 3rd project 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Favourite Things</title>
+</head>
+<body>
+    <h1 style="text-align:center;">My Favourite Things</h1>
+
+    <h2>Books I Love</h2>
+    <ul>
+        <li>Harry Potter</li>
+        <li>Rich Dad Poor Dad</li>
+        <li>The Alchemist</li>
+    </ul>
+
+    <h2>Foods I Like</h2>
+    <ul>
+        <li>Gulab Jamun</li>
+        <li>Paneer Butter Masala</li>
+        <li>Chocolate Cake</li>
+    </ul>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Coding</li>
+        <li>Cooking</li>
+        <li>Reading</li>
+    </ul>
+</body>
+</html>
